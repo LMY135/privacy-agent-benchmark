@@ -1,0 +1,8 @@
+simulation:
+  use_persona_builder: true
+  use_dialogue_behavior: true
+  use_dialogue_rules: true
+  use_personal_memory: true
+
+conversation:
+  max_turns: 10

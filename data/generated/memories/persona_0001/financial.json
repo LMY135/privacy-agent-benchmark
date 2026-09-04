@@ -1,0 +1,19 @@
+{
+  "persona_id": "0001",
+  "category": "financial",
+  "count": 2,
+  "memories": [
+    {
+      "id": "0001_financial_01",
+      "persona_id": "0001",
+      "category": "financial",
+      "memory": "After a slow winter season, I used a small personal loan to buy a welding machine for my workshop, and I have been paying it back from each month's jobs."
+    },
+    {
+      "id": "0001_financial_02",
+      "persona_id": "0001",
+      "category": "financial",
+      "memory": "I keep most of my savings in cash at home because I do not fully trust online banking, but I have not told my children exactly how much I have set aside."
+    }
+  ]
+}
