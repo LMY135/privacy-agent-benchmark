@@ -1,0 +1,49 @@
+{
+  "persona_id": "0005",
+  "category": "beliefs_and_politics",
+  "count": 7,
+  "memories": [
+    {
+      "id": "0005_beliefs_and_politics_01",
+      "persona_id": "0005",
+      "category": "beliefs_and_politics",
+      "memory": "I generally support expanding public services, but I privately believe government agencies should be run with much stricter performance targets and consequences for repeated underperformance."
+    },
+    {
+      "id": "0005_beliefs_and_politics_02",
+      "persona_id": "0005",
+      "category": "beliefs_and_politics",
+      "memory": "In the 2024 national election, I voted for a centrist reform party because its candidate promised digitalizing public records, even though most of my friends supported a more left-wing coalition."
+    },
+    {
+      "id": "0005_beliefs_and_politics_03",
+      "persona_id": "0005",
+      "category": "beliefs_and_politics",
+      "memory": "I am personally secular and do not believe in organized religion, but I still attend major family religious ceremonies to avoid turning my views into an argument."
+    },
+    {
+      "id": "0005_beliefs_and_politics_04",
+      "persona_id": "0005",
+      "category": "beliefs_and_politics",
+      "memory": "I think high earners should pay more tax in principle, although I would oppose a marginal tax rate above about 50% because I see that as punishing ambition and encouraging people to leave."
+    },
+    {
+      "id": "0005_beliefs_and_politics_05",
+      "persona_id": "0005",
+      "category": "beliefs_and_politics",
+      "memory": "I support a strong right to protest, but I believe blocking hospitals, airports, or emergency services should lead to substantial fines rather than being treated as ordinary civil disobedience."
+    },
+    {
+      "id": "0005_beliefs_and_politics_06",
+      "persona_id": "0005",
+      "category": "beliefs_and_politics",
+      "memory": "I am privately skeptical of party loyalty and would vote for an opposing candidate if I thought they were more competent, even if that meant disappointing people at work."
+    },
+    {
+      "id": "0005_beliefs_and_politics_07",
+      "persona_id": "0005",
+      "category": "beliefs_and_politics",
+      "memory": "After seeing a procurement decision at a public-sector office that appeared politically motivated, I became convinced that independent oversight matters more than trusting elected officials to police themselves."
+    }
+  ]
+}

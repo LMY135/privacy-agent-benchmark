@@ -1,0 +1,49 @@
+{
+  "persona_id": "0003",
+  "category": "financial",
+  "count": 7,
+  "memories": [
+    {
+      "id": "0003_financial_01",
+      "persona_id": "0003",
+      "category": "financial",
+      "memory": "My income from painting commissions varies widely, but last year I earned roughly €38,000 before taxes and had to set aside money for studio rent and materials."
+    },
+    {
+      "id": "0003_financial_02",
+      "persona_id": "0003",
+      "category": "financial",
+      "memory": "In 2022, I took out a €14,500 loan to renovate my studio, and I am still paying €320 a month on it."
+    },
+    {
+      "id": "0003_financial_03",
+      "persona_id": "0003",
+      "category": "financial",
+      "memory": "A gallery in Valencia agreed to pay me a €6,000 advance for a series of twelve paintings, but the final payment has been delayed for nearly four months."
+    },
+    {
+      "id": "0003_financial_04",
+      "persona_id": "0003",
+      "category": "financial",
+      "memory": "I keep about €21,000 in a savings account for retirement, although I sometimes use part of it to travel to exhibitions or enter masters swimming competitions."
+    },
+    {
+      "id": "0003_financial_05",
+      "persona_id": "0003",
+      "category": "financial",
+      "memory": "I paid €2,750 in unexpected tax arrears last spring after an accountant found that several freelance art payments had been reported incorrectly."
+    },
+    {
+      "id": "0003_financial_06",
+      "persona_id": "0003",
+      "category": "financial",
+      "memory": "My monthly pension is approximately €1,480, so I continue accepting portrait commissions to cover the cost of maintaining my apartment and workshop."
+    },
+    {
+      "id": "0003_financial_07",
+      "persona_id": "0003",
+      "category": "financial",
+      "memory": "I lent a former studio assistant €1,200 in January to replace damaged equipment, with an agreement that he would repay me in six installments."
+    }
+  ]
+}

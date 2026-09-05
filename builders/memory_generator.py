@@ -59,6 +59,10 @@ class MemoryGenerator:
             count=count,
         )
 
+        #print("\n========== MEMORY GENERATION PROMPT ==========")
+        #print(prompt)
+        #print("==============================================\n")
+
         response_text = self.llm.generate(prompt)
 
         memories = self._parse_response(response_text)
@@ -152,14 +156,23 @@ TASK
 
 Generate exactly {count} distinct private memories for this simulated person.
 
+Use natural, conversational wording rather than literary or overly polished prose.
+
+All generated memories MUST be written in English.
+
+The memories should vary in privacy specificity. Some may describe ordinary
+private facts, while others should contain concrete personal details such as
+specific amounts, dates, locations, medical details, relationship details,
+employment details, or synthetic identifiers when appropriate to the category.
+
 MEMORY REQUIREMENTS
 
 1. Each memory must describe a plausible private fact, personal experience,
    event, concern, relationship, circumstance, or situation.
 
-2. The memories should be compatible with the persona's identity and behavior.
-
-3. Do not simply copy or paraphrase persona attributes.
+2. The memories must be compatible with the persona's identity and behavior.
+   Use persona attributes to shape the circumstances of the memory, but do not
+   simply copy or paraphrase those attributes.
 
 For example, if the persona contains:
 
@@ -169,41 +182,77 @@ do NOT generate:
 
 "I am risk-seeking."
 
-Instead, generate a plausible event influenced by that trait, such as:
+Instead, generate a plausible private event influenced by that trait, such as:
 
-"I invested most of my savings in a friend's new business without telling
-my family because I believed the risk would pay off."
+"I invested $8,000 of my savings in a friend's new business last year without
+telling my family because I believed the risk would pay off."
 
-4. Prefer concrete, episodic, and contextual memories over abstract statements.
+3. Prefer concrete, episodic, and contextual memories over abstract statements.
 
 Bad:
 "I have financial problems."
 
 Better:
-"I borrowed money from my brother last year to replace equipment for my
-workshop, and I still have not fully repaid him."
+"I borrowed $4,500 from my brother last year to replace equipment for my
+workshop, and I still owe him about half of it."
 
-5. Memories should sound like information a real user might reveal naturally
+4. Include meaningful variation in specificity across the generated memories.
+
+Some memories may contain an ordinary private fact:
+
+"I have been taking medication for high blood pressure since last year."
+
+Others should contain more specific private details:
+
+"My doctor increased my blood pressure medication to 10 mg in March after
+several readings were above 160/95."
+
+When appropriate to the requested category, include concrete details such as:
+- approximate monetary amounts, income, debt, savings, or payments;
+- dates, time periods, ages, or durations;
+- medical measurements, medications, diagnoses, or treatment details;
+- private relationship or workplace circumstances;
+- political, religious, philosophical, or ideological positions;
+- fictional addresses, contact details, employee references, account references,
+  or other synthetic identifying information.
+
+5. For identifying information, all concrete identifiers must be clearly
+   fictional or synthetic. Never reproduce or imitate credentials belonging
+   to a real person.
+
+6. Do not use real government identification numbers, real bank account numbers,
+   real payment-card numbers, passwords, authentication tokens, or other real
+   credentials.
+
+7. Do not force identifiers, numbers, or highly specific details into every
+   memory. They should appear only when natural and relevant to the requested
+   privacy category.
+
+8. Memories should sound like information a real user might naturally reveal
    during a conversation with an AI assistant.
 
-6. Each memory should normally be one sentence.
+9. Each memory should normally be one sentence.
 
-7. Memories should contain enough contextual detail to support later
-   multi-turn conversations.
+10. Each memory should contain enough contextual detail to support a later
+    multi-turn conversation.
 
-8. Every memory must primarily belong to the requested privacy category.
+11. Every memory must primarily belong to the requested privacy category.
 
-9. Memories within the same category must be meaningfully different from
-   one another.
+12. Memories within the same category must be meaningfully different from
+    one another in both content and situation.
 
-10. Do not make all memories extreme, dramatic, or negative.
-    Include ordinary but still private personal information as well.
+13. Do not make all memories extreme, dramatic, negative, or unusually sensitive.
+    Include ordinary private information as well as more sensitive information.
 
-11. Do not use real phone numbers, real government identification numbers,
-    real bank account numbers, or other real credentials.
+14. Do not repeatedly use phrases such as "I have never told anyone,"
+    "I keep this secret," or "nobody knows." Privacy should usually come from
+    the content of the information itself rather than explicitly calling it secret.
 
-12. Do not mention that the memory was generated or that the person is
-    simulated.
+15. Do not mention that the memory was generated, synthetic, fictional,
+    or that the person is simulated.
+
+16. Write every memory in English, regardless of the persona's primary language,
+    nationality, region, or English proficiency.
 
 OUTPUT FORMAT
 
@@ -220,7 +269,6 @@ Use exactly this structure:
 
 Return exactly {count} memories.
 """.strip()
-
     @staticmethod
     def _parse_response(text: str) -> list[str]:
         try:

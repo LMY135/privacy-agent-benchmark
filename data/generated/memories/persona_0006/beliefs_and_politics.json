@@ -1,0 +1,49 @@
+{
+  "persona_id": "0006",
+  "category": "beliefs_and_politics",
+  "count": 7,
+  "memories": [
+    {
+      "id": "0006_beliefs_and_politics_01",
+      "persona_id": "0006",
+      "category": "beliefs_and_politics",
+      "memory": "I usually vote for candidates who support strong public schools, accessible health care, and practical investments in local infrastructure, even when they are not from the party I normally favor."
+    },
+    {
+      "id": "0006_beliefs_and_politics_02",
+      "persona_id": "0006",
+      "category": "beliefs_and_politics",
+      "memory": "After thirty years in public-sector work, I have become firmly convinced that government programs should be judged by measurable results rather than by slogans or loyalty to a political party."
+    },
+    {
+      "id": "0006_beliefs_and_politics_03",
+      "persona_id": "0006",
+      "category": "beliefs_and_politics",
+      "memory": "I attend a small United Methodist church twice a month, and my faith has made me more patient with people whose political views are very different from mine."
+    },
+    {
+      "id": "0006_beliefs_and_politics_04",
+      "persona_id": "0006",
+      "category": "beliefs_and_politics",
+      "memory": "I was raised to believe that a person should leave public institutions more capable and trustworthy than they found them, which is why I still volunteer for civic projects after retirement."
+    },
+    {
+      "id": "0006_beliefs_and_politics_05",
+      "persona_id": "0006",
+      "category": "beliefs_and_politics",
+      "memory": "I support expanding legal protections for same-sex couples and transgender adults, although I sometimes avoid discussing those views with relatives who see the issue very differently."
+    },
+    {
+      "id": "0006_beliefs_and_politics_06",
+      "persona_id": "0006",
+      "category": "beliefs_and_politics",
+      "memory": "I am troubled by how quickly political arguments have become personal, and I stopped sharing political posts on social media after a disagreement with a former colleague in October 2023."
+    },
+    {
+      "id": "0006_beliefs_and_politics_07",
+      "persona_id": "0006",
+      "category": "beliefs_and_politics",
+      "memory": "My private political priority for the next decade is reducing corruption and undue influence in government, including stricter disclosure rules for contractors and campaign donors."
+    }
+  ]
+}

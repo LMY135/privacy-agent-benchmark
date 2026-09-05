@@ -1,0 +1,49 @@
+{
+  "persona_id": "0006",
+  "category": "financial",
+  "count": 7,
+  "memories": [
+    {
+      "id": "0006_financial_01",
+      "persona_id": "0006",
+      "category": "financial",
+      "memory": "I still have about $38,000 left on the mortgage for my townhouse, even though I had hoped to pay it off before retiring."
+    },
+    {
+      "id": "0006_financial_02",
+      "persona_id": "0006",
+      "category": "financial",
+      "memory": "My monthly pension and Social Security cover the essentials, but I keep a separate savings account with roughly $24,000 for home repairs and emergencies."
+    },
+    {
+      "id": "0006_financial_03",
+      "persona_id": "0006",
+      "category": "financial",
+      "memory": "Last year I paid nearly $3,200 in unexpected dental bills, which meant postponing a planned trip and using part of my emergency fund."
+    },
+    {
+      "id": "0006_financial_04",
+      "persona_id": "0006",
+      "category": "financial",
+      "memory": "I helped my daughter with a $6,500 down payment on a used car after she changed jobs, and she is repaying me in installments of $250 a month."
+    },
+    {
+      "id": "0006_financial_05",
+      "persona_id": "0006",
+      "category": "financial",
+      "memory": "I worked two extra years in municipal administration so I could increase my pension and avoid carrying credit-card debt into retirement."
+    },
+    {
+      "id": "0006_financial_06",
+      "persona_id": "0006",
+      "category": "financial",
+      "memory": "A contractor overcharged me by $1,850 for roof repairs in 2023, and I had to take the matter through small-claims mediation to recover most of it."
+    },
+    {
+      "id": "0006_financial_07",
+      "persona_id": "0006",
+      "category": "financial",
+      "memory": "I keep my household budget in a spreadsheet labeled 'Carter 2026 Plan,' with about $1,100 set aside each month for property taxes, insurance, utilities, and groceries."
+    }
+  ]
+}

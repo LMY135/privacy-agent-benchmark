@@ -1,0 +1,49 @@
+{
+  "persona_id": "0005",
+  "category": "relationships_and_work",
+  "count": 7,
+  "memories": [
+    {
+      "id": "0005_relationships_and_work_01",
+      "persona_id": "0005",
+      "category": "relationships_and_work",
+      "memory": "I work as a policy implementation officer for the city council and am currently competing for a permanent senior role that would raise my salary by about €6,000 a year."
+    },
+    {
+      "id": "0005_relationships_and_work_02",
+      "persona_id": "0005",
+      "category": "relationships_and_work",
+      "memory": "Last October, I challenged my department head over a rushed €38,000 software procurement because I thought the evaluation process was too weak, and our relationship has been tense ever since."
+    },
+    {
+      "id": "0005_relationships_and_work_03",
+      "persona_id": "0005",
+      "category": "relationships_and_work",
+      "memory": "I am still in occasional contact with my former partner, Elena, even though we ended our two-year relationship in February after she became frustrated with how often I prioritized late work meetings."
+    },
+    {
+      "id": "0005_relationships_and_work_04",
+      "persona_id": "0005",
+      "category": "relationships_and_work",
+      "memory": "My younger brother lent me €2,400 in June to cover moving costs, and I have been repaying him €200 each month."
+    },
+    {
+      "id": "0005_relationships_and_work_05",
+      "persona_id": "0005",
+      "category": "relationships_and_work",
+      "memory": "A colleague named Tomas helped me prepare for the senior-role interview, and I would feel personally responsible if management blamed him for sharing internal project information with me."
+    },
+    {
+      "id": "0005_relationships_and_work_06",
+      "persona_id": "0005",
+      "category": "relationships_and_work",
+      "memory": "I turned down a three-month secondment in Brussels last year because it would have delayed my promotion locally, although I sometimes regret missing the opportunity."
+    },
+    {
+      "id": "0005_relationships_and_work_07",
+      "persona_id": "0005",
+      "category": "relationships_and_work",
+      "memory": "I took four days of sick leave in November after several weeks of poor sleep and headaches during an audit, but I returned before my doctor recommended because I did not want to look unreliable."
+    }
+  ]
+}

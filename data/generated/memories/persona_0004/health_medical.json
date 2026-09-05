@@ -1,0 +1,49 @@
+{
+  "persona_id": "0004",
+  "category": "health_medical",
+  "count": 7,
+  "memories": [
+    {
+      "id": "0004_health_medical_01",
+      "persona_id": "0004",
+      "category": "health_medical",
+      "memory": "I was diagnosed with high blood pressure in November 2023 after repeated readings around 155/92, and I now take amlodipine 5 mg every morning."
+    },
+    {
+      "id": "0004_health_medical_02",
+      "persona_id": "0004",
+      "category": "health_medical",
+      "memory": "A workplace fall in February 2022 damaged my right knee, and I still use a compression brace when I have to stand during long public meetings."
+    },
+    {
+      "id": "0004_health_medical_03",
+      "persona_id": "0004",
+      "category": "health_medical",
+      "memory": "I get migraine episodes about once every two months, usually with light sensitivity and nausea, and my doctor prescribed sumatriptan 50 mg for them."
+    },
+    {
+      "id": "0004_health_medical_04",
+      "persona_id": "0004",
+      "category": "health_medical",
+      "memory": "A sleep study at North Cedar Medical Centre last year showed moderate obstructive sleep apnea, so I use a CPAP machine most nights."
+    },
+    {
+      "id": "0004_health_medical_05",
+      "persona_id": "0004",
+      "category": "health_medical",
+      "memory": "I completed eight sessions of physiotherapy for recurring lower-back pain between April and June 2024, which helped me return to lifting equipment at work."
+    },
+    {
+      "id": "0004_health_medical_06",
+      "persona_id": "0004",
+      "category": "health_medical",
+      "memory": "After several months of persistent stomach pain, an ultrasound in August 2025 found gallstones, and I am waiting for a surgical consultation rather than treating the symptoms with painkillers alone."
+    },
+    {
+      "id": "0004_health_medical_07",
+      "persona_id": "0004",
+      "category": "health_medical",
+      "memory": "I was prescribed sertraline 25 mg for anxiety during a particularly stressful period in 2021, but I stopped taking it after three months because it made me feel emotionally flat."
+    }
+  ]
+}

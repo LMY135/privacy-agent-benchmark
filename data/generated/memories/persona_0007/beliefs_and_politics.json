@@ -1,0 +1,49 @@
+{
+  "persona_id": "0007",
+  "category": "beliefs_and_politics",
+  "count": 7,
+  "memories": [
+    {
+      "id": "0007_beliefs_and_politics_01",
+      "persona_id": "0007",
+      "category": "beliefs_and_politics",
+      "memory": "I privately support stronger public funding for independent artists and libraries, even though most of my relatives think government money should go to more practical services."
+    },
+    {
+      "id": "0007_beliefs_and_politics_02",
+      "persona_id": "0007",
+      "category": "beliefs_and_politics",
+      "memory": "I stopped attending organized religious services regularly around 2018, but I still fast during Ramadan some years because the ritual helps me feel connected to my family and cultural background."
+    },
+    {
+      "id": "0007_beliefs_and_politics_03",
+      "persona_id": "0007",
+      "category": "beliefs_and_politics",
+      "memory": "During a 2023 gallery project in Istanbul, I argued against removing a politically controversial painting because I believe discomfort is part of serious art, and the disagreement strained my relationship with the curator."
+    },
+    {
+      "id": "0007_beliefs_and_politics_04",
+      "persona_id": "0007",
+      "category": "beliefs_and_politics",
+      "memory": "I tend to vote for candidates who defend secular government and freedom of expression, even when their economic policies are less favorable to people in my profession."
+    },
+    {
+      "id": "0007_beliefs_and_politics_05",
+      "persona_id": "0007",
+      "category": "beliefs_and_politics",
+      "memory": "I donated about 2,000 Turkish lira in 2022 to a small local campaign supporting displaced artists, but I did not mention the donation when applying for a related arts grant."
+    },
+    {
+      "id": "0007_beliefs_and_politics_06",
+      "persona_id": "0007",
+      "category": "beliefs_and_politics",
+      "memory": "I am uneasy with the idea that artistic institutions should publicly endorse every popular social cause, because I think creators need room to be contradictory and politically unfashionable."
+    },
+    {
+      "id": "0007_beliefs_and_politics_07",
+      "persona_id": "0007",
+      "category": "beliefs_and_politics",
+      "memory": "My older brother and I still argue about immigration policy; I favor offering asylum to people fleeing war, while he believes the country should sharply restrict new arrivals because of pressure on housing and jobs."
+    }
+  ]
+}

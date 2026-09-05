@@ -1,0 +1,49 @@
+{
+  "persona_id": "0001",
+  "category": "health_medical",
+  "count": 7,
+  "memories": [
+    {
+      "id": "0001_health_medical_01",
+      "persona_id": "0001",
+      "category": "health_medical",
+      "memory": "I was diagnosed with high blood pressure in 2022 after a routine checkup showed readings around 165/95, and I now take amlodipine every morning."
+    },
+    {
+      "id": "0001_health_medical_02",
+      "persona_id": "0001",
+      "category": "health_medical",
+      "memory": "Years of kneeling and lifting at work left me with recurring pain in my right knee, especially after long shifts or heavy squats at the gym."
+    },
+    {
+      "id": "0001_health_medical_03",
+      "persona_id": "0001",
+      "category": "health_medical",
+      "memory": "In September 2023, I tore the meniscus in my left knee during a veterans' football match and completed eight weeks of physiotherapy instead of having surgery."
+    },
+    {
+      "id": "0001_health_medical_04",
+      "persona_id": "0001",
+      "category": "health_medical",
+      "memory": "My doctor told me last winter that my blood sugar was in the prediabetic range, so I have been cutting back on sweet pastries and checking my weight every Sunday."
+    },
+    {
+      "id": "0001_health_medical_05",
+      "persona_id": "0001",
+      "category": "health_medical",
+      "memory": "I have mild hearing loss in my left ear from working around grinders and compressors, but I still put off getting a hearing aid because I dislike wearing one on the job."
+    },
+    {
+      "id": "0001_health_medical_06",
+      "persona_id": "0001",
+      "category": "health_medical",
+      "memory": "For several months after my wife's illness in 2021, I had trouble sleeping and used a short course of prescribed sleeping tablets before returning to a regular exercise routine."
+    },
+    {
+      "id": "0001_health_medical_07",
+      "persona_id": "0001",
+      "category": "health_medical",
+      "memory": "A workplace accident in 2018 left me with a small piece of metal in my right forearm, and the surgeon advised leaving it in place because removing it could damage a nerve."
+    }
+  ]
+}

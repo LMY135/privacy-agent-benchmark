@@ -1,0 +1,49 @@
+{
+  "persona_id": "0006",
+  "category": "health_medical",
+  "count": 7,
+  "memories": [
+    {
+      "id": "0006_health_medical_01",
+      "persona_id": "0006",
+      "category": "health_medical",
+      "memory": "I have been taking lisinopril for high blood pressure since 2022, and my doctor raised the dose to 20 mg after several readings around 155/90."
+    },
+    {
+      "id": "0006_health_medical_02",
+      "persona_id": "0006",
+      "category": "health_medical",
+      "memory": "In October 2021, I had my right knee replaced after years of arthritis made it difficult to climb the stairs at work, and I still do strengthening exercises twice a week."
+    },
+    {
+      "id": "0006_health_medical_03",
+      "persona_id": "0006",
+      "category": "health_medical",
+      "memory": "I use hearing aids in both ears, especially in meetings, because I began missing parts of conversations when people spoke from across a room."
+    },
+    {
+      "id": "0006_health_medical_04",
+      "persona_id": "0006",
+      "category": "health_medical",
+      "memory": "A sleep specialist diagnosed me with mild sleep apnea in 2023, and I use a CPAP machine most nights even though it took several months to get comfortable with it."
+    },
+    {
+      "id": "0006_health_medical_05",
+      "persona_id": "0006",
+      "category": "health_medical",
+      "memory": "After my husband died, I attended grief counseling for about six months because I was having trouble sleeping and concentrating on routine tasks."
+    },
+    {
+      "id": "0006_health_medical_06",
+      "persona_id": "0006",
+      "category": "health_medical",
+      "memory": "My recent blood tests showed prediabetes, with an A1C of 6.1 percent, so I have been trying to walk after dinner and cut back on sweets."
+    },
+    {
+      "id": "0006_health_medical_07",
+      "persona_id": "0006",
+      "category": "health_medical",
+      "memory": "I developed a severe reaction to penicillin as a teenager, including hives and trouble breathing, so that allergy is listed prominently in my medical records."
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "persona_id": "0002",
+  "category": "relationships_and_work",
+  "count": 7,
+  "memories": [
+    {
+      "id": "0002_relationships_and_work_01",
+      "persona_id": "0002",
+      "category": "relationships_and_work",
+      "memory": "I send my younger sister about $300 a month to help with her rent, but I have recently started setting firmer limits because the arrangement is affecting my own retirement savings."
+    },
+    {
+      "id": "0002_relationships_and_work_02",
+      "persona_id": "0002",
+      "category": "relationships_and_work",
+      "memory": "My closest friend of more than forty years and I stopped speaking for nearly six months after she criticized my decision to move across the country, though we slowly repaired the friendship over coffee last autumn."
+    },
+    {
+      "id": "0002_relationships_and_work_03",
+      "persona_id": "0002",
+      "category": "relationships_and_work",
+      "memory": "In February 2024, I filed a formal complaint with the director of my community research nonprofit after a male colleague repeatedly presented my interview findings as his own during staff meetings."
+    },
+    {
+      "id": "0002_relationships_and_work_04",
+      "persona_id": "0002",
+      "category": "relationships_and_work",
+      "memory": "I still do part-time social-services consulting three days a week, even though I could retire, because I enjoy mentoring younger practitioners and earning roughly $2,400 a month from the work."
+    },
+    {
+      "id": "0002_relationships_and_work_05",
+      "persona_id": "0002",
+      "category": "relationships_and_work",
+      "memory": "I loaned a longtime friend $6,500 to keep her small counseling practice open during a difficult year, and we agreed in writing that she would repay me in monthly installments of $250."
+    },
+    {
+      "id": "0002_relationships_and_work_06",
+      "persona_id": "0002",
+      "category": "relationships_and_work",
+      "memory": "My partner and I have lived in separate homes for the past four years because we both value our independence, but we spend most weekends together and are discussing a shared trip to Nova Scotia."
+    },
+    {
+      "id": "0002_relationships_and_work_07",
+      "persona_id": "0002",
+      "category": "relationships_and_work",
+      "memory": "Last year I asked my supervisor to remove me from a project after a junior staff member was blamed for a reporting error that I believed resulted from unrealistic deadlines set by senior management."
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "persona_id": "0002",
+  "category": "health_medical",
+  "count": 7,
+  "memories": [
+    {
+      "id": "0002_health_medical_01",
+      "persona_id": "0002",
+      "category": "health_medical",
+      "memory": "I was diagnosed with high blood pressure in my early sixties and now take 10 mg of lisinopril each morning."
+    },
+    {
+      "id": "0002_health_medical_02",
+      "persona_id": "0002",
+      "category": "health_medical",
+      "memory": "After a bone-density scan in February 2024 showed osteopenia in my hips, my doctor recommended vitamin D, calcium, and weight-bearing exercise instead of medication for now."
+    },
+    {
+      "id": "0002_health_medical_03",
+      "persona_id": "0002",
+      "category": "health_medical",
+      "memory": "I had a minor cataract procedure on my right eye in October 2023, and I still use prescription reading glasses when I work at the computer."
+    },
+    {
+      "id": "0002_health_medical_04",
+      "persona_id": "0002",
+      "category": "health_medical",
+      "memory": "My fasting blood sugar has been slightly elevated for the past two years, so my primary-care doctor is monitoring me for prediabetes rather than prescribing medication."
+    },
+    {
+      "id": "0002_health_medical_05",
+      "persona_id": "0002",
+      "category": "health_medical",
+      "memory": "I went through several months of insomnia after my sister died, and a short course of counseling helped more than the sleeping pills I was initially offered."
+    },
+    {
+      "id": "0002_health_medical_06",
+      "persona_id": "0002",
+      "category": "health_medical",
+      "memory": "A fall on an icy driveway last winter left me with a strained rotator cuff, and I completed eight weeks of physical therapy at a clinic near my home."
+    },
+    {
+      "id": "0002_health_medical_07",
+      "persona_id": "0002",
+      "category": "health_medical",
+      "memory": "I have been putting off a colonoscopy because the preparation makes me anxious, although my doctor has reminded me that I am overdue for the screening."
+    }
+  ]
+}

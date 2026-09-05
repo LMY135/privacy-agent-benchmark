@@ -1,0 +1,49 @@
+{
+  "persona_id": "0002",
+  "category": "financial",
+  "count": 7,
+  "memories": [
+    {
+      "id": "0002_financial_01",
+      "persona_id": "0002",
+      "category": "financial",
+      "memory": "I keep about $42,000 in an emergency savings account and try not to touch it, even when unexpected expenses come up."
+    },
+    {
+      "id": "0002_financial_02",
+      "persona_id": "0002",
+      "category": "financial",
+      "memory": "After retiring from my community outreach job in 2021, my monthly pension and Social Security together dropped my income to roughly $3,800 before taxes."
+    },
+    {
+      "id": "0002_financial_03",
+      "persona_id": "0002",
+      "category": "financial",
+      "memory": "In October 2023, I invested $8,000 in a former colleague's small home-care business because I believed in her plan, although the money is still tied up."
+    },
+    {
+      "id": "0002_financial_04",
+      "persona_id": "0002",
+      "category": "financial",
+      "memory": "I put a $6,500 roof repair on a low-interest credit line last spring and am paying it down with $275 monthly payments."
+    },
+    {
+      "id": "0002_financial_05",
+      "persona_id": "0002",
+      "category": "financial",
+      "memory": "My daughter borrowed $2,400 from me for a professional certification course, and we agreed she would repay it in small installments whenever her budget allows."
+    },
+    {
+      "id": "0002_financial_06",
+      "persona_id": "0002",
+      "category": "financial",
+      "memory": "I receive a modest annuity payment from an old employer every month, but I have not yet decided whether to leave it invested or use it for travel."
+    },
+    {
+      "id": "0002_financial_07",
+      "persona_id": "0002",
+      "category": "financial",
+      "memory": "Last year I discovered that an unfamiliar $186 charge had appeared on my credit card, so I froze the card and moved most of my automatic payments to a replacement account."
+    }
+  ]
+}

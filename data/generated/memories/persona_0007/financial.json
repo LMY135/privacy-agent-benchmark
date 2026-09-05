@@ -1,0 +1,49 @@
+{
+  "persona_id": "0007",
+  "category": "financial",
+  "count": 7,
+  "memories": [
+    {
+      "id": "0007_financial_01",
+      "persona_id": "0007",
+      "category": "financial",
+      "memory": "My income from freelance exhibitions and commissioned murals varies widely, but last year I averaged about $3,200 a month before expenses."
+    },
+    {
+      "id": "0007_financial_02",
+      "persona_id": "0007",
+      "category": "financial",
+      "memory": "I paid $780 each month for a small studio in Istanbul until I moved my workspace into a cheaper shared arts building in February 2025."
+    },
+    {
+      "id": "0007_financial_03",
+      "persona_id": "0007",
+      "category": "financial",
+      "memory": "In 2024, I put roughly $6,000 of my savings into a friend's experimental gallery project, and the investment has not produced any return yet."
+    },
+    {
+      "id": "0007_financial_04",
+      "persona_id": "0007",
+      "category": "financial",
+      "memory": "I still owe about $2,400 on a personal loan I took out to replace my large-format printer after it broke during an important commission."
+    },
+    {
+      "id": "0007_financial_05",
+      "persona_id": "0007",
+      "category": "financial",
+      "memory": "I send my mother around $300 most months to help with household expenses, although I reduce the amount when freelance work is slow."
+    },
+    {
+      "id": "0007_financial_06",
+      "persona_id": "0007",
+      "category": "financial",
+      "memory": "A regional arts foundation awarded me a $9,500 grant in June 2025, but nearly half of it went toward materials, venue hire, and local taxes."
+    },
+    {
+      "id": "0007_financial_07",
+      "persona_id": "0007",
+      "category": "financial",
+      "memory": "I keep an emergency reserve of about $4,000, but I dipped into it recently to cover two months of rent when a client delayed a payment."
+    }
+  ]
+}

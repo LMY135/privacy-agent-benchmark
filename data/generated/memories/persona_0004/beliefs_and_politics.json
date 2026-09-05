@@ -1,0 +1,49 @@
+{
+  "persona_id": "0004",
+  "category": "beliefs_and_politics",
+  "count": 7,
+  "memories": [
+    {
+      "id": "0004_beliefs_and_politics_01",
+      "persona_id": "0004",
+      "category": "beliefs_and_politics",
+      "memory": "I support Indigenous self-government and believe public agencies should transfer real decision-making power, not just consult communities after policies are already written."
+    },
+    {
+      "id": "0004_beliefs_and_politics_02",
+      "persona_id": "0004",
+      "category": "beliefs_and_politics",
+      "memory": "During the 2024 election, I volunteered about 30 hours for a local candidate who wanted to replace mandatory minimum sentences with community-based programs."
+    },
+    {
+      "id": "0004_beliefs_and_politics_03",
+      "persona_id": "0004",
+      "category": "beliefs_and_politics",
+      "memory": "I am politically opposed to expanding police budgets without independent oversight, even though several people in my department think that position is impractical."
+    },
+    {
+      "id": "0004_beliefs_and_politics_04",
+      "persona_id": "0004",
+      "category": "beliefs_and_politics",
+      "memory": "I believe government employees should be allowed to refuse directives that clearly violate civil rights, and I would accept disciplinary action rather than sign off on something I considered unlawful."
+    },
+    {
+      "id": "0004_beliefs_and_politics_05",
+      "persona_id": "0004",
+      "category": "beliefs_and_politics",
+      "memory": "My political views became much more distrustful after a regional housing program in 2022 spent roughly $180,000 on consultants while leaving several families without placements."
+    },
+    {
+      "id": "0004_beliefs_and_politics_06",
+      "persona_id": "0004",
+      "category": "beliefs_and_politics",
+      "memory": "I do not follow an organized religion, and I generally view moral decisions as matters of responsibility and consequences rather than divine rules."
+    },
+    {
+      "id": "0004_beliefs_and_politics_07",
+      "persona_id": "0004",
+      "category": "beliefs_and_politics",
+      "memory": "I support strong public-sector unions and progressive taxation, but I would still vote for a candidate who opposed my economic views if I thought they were more competent and less corrupt."
+    }
+  ]
+}

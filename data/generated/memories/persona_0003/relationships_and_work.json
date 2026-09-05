@@ -1,0 +1,49 @@
+{
+  "persona_id": "0003",
+  "category": "relationships_and_work",
+  "count": 7,
+  "memories": [
+    {
+      "id": "0003_relationships_and_work_01",
+      "persona_id": "0003",
+      "category": "relationships_and_work",
+      "memory": "My adult son lives in another country, and we usually speak by video call on Sunday evenings because our relationship became strained after he criticized my decision to keep working instead of retiring."
+    },
+    {
+      "id": "0003_relationships_and_work_02",
+      "persona_id": "0003",
+      "category": "relationships_and_work",
+      "memory": "I share a small studio with two other painters near the old railway district, and we split the €720 monthly rent according to the amount of workspace each person uses."
+    },
+    {
+      "id": "0003_relationships_and_work_03",
+      "persona_id": "0003",
+      "category": "relationships_and_work",
+      "memory": "In October 2024, I argued with the director of the Mirador Arts Centre after my name was left off the exhibition catalogue even though I had organized most of the installation."
+    },
+    {
+      "id": "0003_relationships_and_work_04",
+      "persona_id": "0003",
+      "category": "relationships_and_work",
+      "memory": "A gallery still owes me €4,800 for paintings sold during a spring exhibition, and the owner has postponed payment twice while insisting that the sales paperwork is being corrected."
+    },
+    {
+      "id": "0003_relationships_and_work_05",
+      "persona_id": "0003",
+      "category": "relationships_and_work",
+      "memory": "I coach a group of older cyclists twice a week, and one of the riders recently left after a disagreement about my demanding training schedule and refusal to cancel sessions for bad weather."
+    },
+    {
+      "id": "0003_relationships_and_work_06",
+      "persona_id": "0003",
+      "category": "relationships_and_work",
+      "memory": "My younger sister helps me handle household paperwork because I find online forms frustrating, but we often clash when she tells me I should reduce my work commitments."
+    },
+    {
+      "id": "0003_relationships_and_work_07",
+      "persona_id": "0003",
+      "category": "relationships_and_work",
+      "memory": "I am considering applying for a permanent teaching position at the regional art school next year because freelance commissions have become less predictable, although I worry that the younger staff would not take me seriously."
+    }
+  ]
+}

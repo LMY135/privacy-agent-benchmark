@@ -1,0 +1,49 @@
+{
+  "persona_id": "0008",
+  "category": "beliefs_and_politics",
+  "count": 7,
+  "memories": [
+    {
+      "id": "0008_beliefs_and_politics_01",
+      "persona_id": "0008",
+      "category": "beliefs_and_politics",
+      "memory": "I lean fiscally conservative, but I support paying higher local taxes when the money is clearly tied to maintaining public infrastructure and essential services."
+    },
+    {
+      "id": "0008_beliefs_and_politics_02",
+      "persona_id": "0008",
+      "category": "beliefs_and_politics",
+      "memory": "During a 2019 public-sector project, I pushed back when a politically appointed supervisor wanted staff to alter a neutral briefing, because I believe career civil servants should serve the law rather than a particular party."
+    },
+    {
+      "id": "0008_beliefs_and_politics_03",
+      "persona_id": "0008",
+      "category": "beliefs_and_politics",
+      "memory": "I was raised in a churchgoing family, but by my early forties I had become more agnostic and now treat religious claims as personal matters rather than guides for public policy."
+    },
+    {
+      "id": "0008_beliefs_and_politics_04",
+      "persona_id": "0008",
+      "category": "beliefs_and_politics",
+      "memory": "I support legal immigration and a path to citizenship for long-term residents, although I think border enforcement and consistent employment rules are necessary for the system to be fair."
+    },
+    {
+      "id": "0008_beliefs_and_politics_05",
+      "persona_id": "0008",
+      "category": "beliefs_and_politics",
+      "memory": "I gave $250 in 2023 to a local campaign opposing a proposed charter change because I believed it would concentrate too much authority in the mayor's office."
+    },
+    {
+      "id": "0008_beliefs_and_politics_06",
+      "persona_id": "0008",
+      "category": "beliefs_and_politics",
+      "memory": "I have become more supportive of nuclear power after seeing how difficult it is for public agencies to meet emissions goals using only wind and solar."
+    },
+    {
+      "id": "0008_beliefs_and_politics_07",
+      "persona_id": "0008",
+      "category": "beliefs_and_politics",
+      "memory": "I oppose the death penalty because I do not trust any government, even a competent one, with an irreversible punishment when courts can make mistakes."
+    }
+  ]
+}

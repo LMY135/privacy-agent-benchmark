@@ -1,0 +1,49 @@
+{
+  "persona_id": "0004",
+  "category": "relationships_and_work",
+  "count": 7,
+  "memories": [
+    {
+      "id": "0004_relationships_and_work_01",
+      "persona_id": "0004",
+      "category": "relationships_and_work",
+      "memory": "I lent my younger brother $3,200 in November 2024 to repair his work truck, and he is still paying me back in $200 monthly installments."
+    },
+    {
+      "id": "0004_relationships_and_work_02",
+      "persona_id": "0004",
+      "category": "relationships_and_work",
+      "memory": "I lead a six-person team at the fictional North Valley Public Services Office, where I coordinate community infrastructure grants and usually make the final call when deadlines are tight."
+    },
+    {
+      "id": "0004_relationships_and_work_03",
+      "persona_id": "0004",
+      "category": "relationships_and_work",
+      "memory": "My director gave me a below-expectations rating in my 2025 performance review after I bypassed two approval steps to launch a winter shelter pilot, even though the pilot met its enrollment target."
+    },
+    {
+      "id": "0004_relationships_and_work_04",
+      "persona_id": "0004",
+      "category": "relationships_and_work",
+      "memory": "I am applying for a deputy manager position that would increase my salary from about $86,000 to $101,000, but I am worried that my current supervisor may discourage the hiring panel from selecting me."
+    },
+    {
+      "id": "0004_relationships_and_work_05",
+      "persona_id": "0004",
+      "category": "relationships_and_work",
+      "memory": "After persistent insomnia and headaches during the last budget cycle, I took four days of medical leave in February 2026 and started a short-term prescription for sleep support."
+    },
+    {
+      "id": "0004_relationships_and_work_06",
+      "persona_id": "0004",
+      "category": "relationships_and_work",
+      "memory": "I have become distant from a longtime friend after he joined my department as a contractor and began sharing details about our private disagreements with other staff."
+    },
+    {
+      "id": "0004_relationships_and_work_07",
+      "persona_id": "0004",
+      "category": "relationships_and_work",
+      "memory": "I am seriously considering leaving public service within the next year to join a small policy consulting firm, even though giving up my pension plan would cost me roughly $18,000 in deferred benefits."
+    }
+  ]
+}

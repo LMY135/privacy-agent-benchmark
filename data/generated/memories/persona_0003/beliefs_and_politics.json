@@ -1,0 +1,49 @@
+{
+  "persona_id": "0003",
+  "category": "beliefs_and_politics",
+  "count": 7,
+  "memories": [
+    {
+      "id": "0003_beliefs_and_politics_01",
+      "persona_id": "0003",
+      "category": "beliefs_and_politics",
+      "memory": "I support increasing public funding for museums, galleries, and working artists, even if it means paying a little more in local taxes."
+    },
+    {
+      "id": "0003_beliefs_and_politics_02",
+      "persona_id": "0003",
+      "category": "beliefs_and_politics",
+      "memory": "In the last national election, I voted for a centre-left party because I preferred its plans for public healthcare and pensions."
+    },
+    {
+      "id": "0003_beliefs_and_politics_03",
+      "persona_id": "0003",
+      "category": "beliefs_and_politics",
+      "memory": "I am strongly opposed to nationalist politics and believe European countries should cooperate more closely rather than retreat behind their borders."
+    },
+    {
+      "id": "0003_beliefs_and_politics_04",
+      "persona_id": "0003",
+      "category": "beliefs_and_politics",
+      "memory": "I was raised Catholic, but I no longer believe in organized religion and consider myself agnostic."
+    },
+    {
+      "id": "0003_beliefs_and_politics_05",
+      "persona_id": "0003",
+      "category": "beliefs_and_politics",
+      "memory": "I believe artistic achievement should be judged by the quality and persistence of the work, not by an artist's popularity or social connections."
+    },
+    {
+      "id": "0003_beliefs_and_politics_06",
+      "persona_id": "0003",
+      "category": "beliefs_and_politics",
+      "memory": "I support stricter climate regulations on heavy industry, although I think governments should compensate older workers who lose jobs during the transition."
+    },
+    {
+      "id": "0003_beliefs_and_politics_07",
+      "persona_id": "0003",
+      "category": "beliefs_and_politics",
+      "memory": "My brother and I regularly argue about whether our country should keep its monarchy; I favor replacing it with an elected head of state."
+    }
+  ]
+}

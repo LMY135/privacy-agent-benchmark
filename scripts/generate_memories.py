@@ -142,41 +142,85 @@ def generate_single_category(
 
 def main():
     parser = argparse.ArgumentParser(
-        description=(
-            "Generate synthetic private memories "
-            "for one persona."
-        )
+        description="Generate synthetic private memories."
     )
 
     parser.add_argument(
         "--persona",
-        required=True,
         help="Persona ID, e.g. 0001",
     )
 
     parser.add_argument(
         "--category",
-        required=True,
         choices=list(PRIVACY_CATEGORIES.keys()),
-        help="Privacy category",
+        help="Generate one privacy category",
+    )
+
+    parser.add_argument(
+        "--all-categories",
+        action="store_true",
+        help="Generate all privacy categories",
+    )
+
+    parser.add_argument(
+        "--all-personas",
+        action="store_true",
+        help="Generate memories for all personas",
     )
 
     parser.add_argument(
         "--count",
         type=int,
-        default=10,
-        help="Number of memories to generate",
+        default=7,
+        help="Number of memories per category",
     )
 
     args = parser.parse_args()
 
+    if args.all_personas:
+        for index in range(1, 9):
+            persona_id = f"{index:04d}"
+
+            print("\n" + "=" * 60)
+            print(f"Generating memories for persona {persona_id}")
+            print("=" * 60)
+
+            for category in PRIVACY_CATEGORIES:
+                generate_single_category(
+                    persona_id=persona_id,
+                    category=category,
+                    count=args.count,
+                )
+
+        return
+
+    if not args.persona:
+        parser.error(
+            "--persona is required unless --all-personas is used"
+        )
+
     persona_id = args.persona.zfill(4)
 
-    generate_single_category(
-        persona_id=persona_id,
-        category=args.category,
-        count=args.count,
-    )
+    if args.all_categories:
+        for category in PRIVACY_CATEGORIES:
+            generate_single_category(
+                persona_id=persona_id,
+                category=category,
+                count=args.count,
+            )
+
+    elif args.category:
+        generate_single_category(
+            persona_id=persona_id,
+            category=args.category,
+            count=args.count,
+        )
+
+    else:
+        parser.error(
+            "Please specify --category, --all-categories, "
+            "or --all-personas"
+        )
 
 
 if __name__ == "__main__":

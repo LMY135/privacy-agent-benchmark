@@ -1,0 +1,49 @@
+{
+  "persona_id": "0007",
+  "category": "health_medical",
+  "count": 7,
+  "memories": [
+    {
+      "id": "0007_health_medical_01",
+      "persona_id": "0007",
+      "category": "health_medical",
+      "memory": "I get recurring migraines about once or twice a month, especially after long days working under gallery lighting, and I usually need to lie in a dark room for several hours."
+    },
+    {
+      "id": "0007_health_medical_02",
+      "persona_id": "0007",
+      "category": "health_medical",
+      "memory": "My doctor diagnosed me with mild hypertension in 2022, and I now take amlodipine 5 mg each morning while trying to keep track of my blood pressure at home."
+    },
+    {
+      "id": "0007_health_medical_03",
+      "persona_id": "0007",
+      "category": "health_medical",
+      "memory": "I strained my right knee while helping install a large exhibition last spring, and physiotherapy twice a week has helped, although stairs still cause occasional pain."
+    },
+    {
+      "id": "0007_health_medical_04",
+      "persona_id": "0007",
+      "category": "health_medical",
+      "memory": "For several months in 2024, I met with a therapist about burnout and irritability caused by taking on too many arts projects at once."
+    },
+    {
+      "id": "0007_health_medical_05",
+      "persona_id": "0007",
+      "category": "health_medical",
+      "memory": "A sleep study showed that I have mild obstructive sleep apnea, so I was given a CPAP machine, but I still struggle to use it consistently when traveling for exhibitions."
+    },
+    {
+      "id": "0007_health_medical_06",
+      "persona_id": "0007",
+      "category": "health_medical",
+      "memory": "I developed a persistent rash on my hands after using industrial paints, and a dermatologist prescribed a steroid cream and advised me to wear nitrile gloves in the studio."
+    },
+    {
+      "id": "0007_health_medical_07",
+      "persona_id": "0007",
+      "category": "health_medical",
+      "memory": "After a routine blood test showed low vitamin D and borderline high cholesterol, I started a daily vitamin D supplement and was asked to repeat the tests after three months."
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "persona_id": "0004",
+  "category": "personal_identity",
+  "count": 7,
+  "memories": [
+    {
+      "id": "0004_personal_identity_01",
+      "persona_id": "0004",
+      "category": "personal_identity",
+      "memory": "I rent a basement suite at 44 Willowglass Avenue in the fictional town of Raven Creek, Manitoba, and use that address for official correspondence."
+    },
+    {
+      "id": "0004_personal_identity_02",
+      "persona_id": "0004",
+      "category": "personal_identity",
+      "memory": "My public-sector employee reference is the synthetic code PS-04-7816, which I need when accessing internal personnel services."
+    },
+    {
+      "id": "0004_personal_identity_03",
+      "persona_id": "0004",
+      "category": "personal_identity",
+      "memory": "My legal name is Sienna Carter, and I was born on February 18, 1987, in Thunder Bay, Ontario."
+    },
+    {
+      "id": "0004_personal_identity_04",
+      "persona_id": "0004",
+      "category": "personal_identity",
+      "memory": "I identify with the Wapiti Shore Indigenous community, and my community membership record uses the synthetic reference WS-2194."
+    },
+    {
+      "id": "0004_personal_identity_05",
+      "persona_id": "0004",
+      "category": "personal_identity",
+      "memory": "I usually go by Sienna at work even though some older employment records still list my full legal name as Sienna James Carter."
+    },
+    {
+      "id": "0004_personal_identity_06",
+      "persona_id": "0004",
+      "category": "personal_identity",
+      "memory": "My designated emergency contact is my older brother, Daniel Carter, who lives in a different province and can be reached through the number listed in my personnel file."
+    },
+    {
+      "id": "0004_personal_identity_07",
+      "persona_id": "0004",
+      "category": "personal_identity",
+      "memory": "For job applications that require an email address, I use sienna.carter@ravencreek.example, a dedicated account separate from my personal correspondence."
+    }
+  ]
+}

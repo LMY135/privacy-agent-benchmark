@@ -1,0 +1,49 @@
+{
+  "persona_id": "0001",
+  "category": "personal_identity",
+  "count": 7,
+  "memories": [
+    {
+      "id": "0001_personal_identity_01",
+      "persona_id": "0001",
+      "category": "personal_identity",
+      "memory": "I rent a small workshop apartment on the second floor at 18 Vezna Street in the fictional town of Novy Borik, where I keep my welding tools and spare parts."
+    },
+    {
+      "id": "0001_personal_identity_02",
+      "persona_id": "0001",
+      "category": "personal_identity",
+      "memory": "My mobile number is written in my work notebook as the fictional contact 555-0147 so customers can reach me about repair jobs."
+    },
+    {
+      "id": "0001_personal_identity_03",
+      "persona_id": "0001",
+      "category": "personal_identity",
+      "memory": "I was born in October 1963 and still use my full legal name, Tomas Horvat, on contracts for metalworking projects."
+    },
+    {
+      "id": "0001_personal_identity_04",
+      "persona_id": "0001",
+      "category": "personal_identity",
+      "memory": "For the past nine years I have worked as an independent metal fabricator, mainly taking repair orders from three local construction companies."
+    },
+    {
+      "id": "0001_personal_identity_05",
+      "persona_id": "0001",
+      "category": "personal_identity",
+      "memory": "My former employer kept my personnel file under the synthetic worker reference WH-64291, which I needed when applying for a pension statement last winter."
+    },
+    {
+      "id": "0001_personal_identity_06",
+      "persona_id": "0001",
+      "category": "personal_identity",
+      "memory": "My daughter Elena lives with her husband in another city, and I usually send her about 180 euros each month to help with their mortgage."
+    },
+    {
+      "id": "0001_personal_identity_07",
+      "persona_id": "0001",
+      "category": "personal_identity",
+      "memory": "After a dispute over unpaid overtime, I gave up my old workshop position in June 2021 and registered a sole-trader business under the fictional name Horvat Steel Repairs."
+    }
+  ]
+}

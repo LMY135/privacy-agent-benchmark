@@ -1,0 +1,49 @@
+{
+  "persona_id": "0008",
+  "category": "relationships_and_work",
+  "count": 7,
+  "memories": [
+    {
+      "id": "0008_relationships_and_work_01",
+      "persona_id": "0008",
+      "category": "relationships_and_work",
+      "memory": "I have been married to Elaine for 38 years, and lately we have been arguing about whether to move closer to our daughter after retirement."
+    },
+    {
+      "id": "0008_relationships_and_work_02",
+      "persona_id": "0008",
+      "category": "relationships_and_work",
+      "memory": "My son Daniel lives about four hours away, and I send him roughly $300 a month while he finishes an electrician apprenticeship, though I make a point of calling it a loan."
+    },
+    {
+      "id": "0008_relationships_and_work_03",
+      "persona_id": "0008",
+      "category": "relationships_and_work",
+      "memory": "I am the deputy director of a regional public-works office, and I am quietly competing for the director position when my supervisor retires next spring."
+    },
+    {
+      "id": "0008_relationships_and_work_04",
+      "persona_id": "0008",
+      "category": "relationships_and_work",
+      "memory": "Last November, I documented repeated missed deadlines by a program manager on my team, but senior leadership reassigned the work instead of approving the formal performance review I recommended."
+    },
+    {
+      "id": "0008_relationships_and_work_05",
+      "persona_id": "0008",
+      "category": "relationships_and_work",
+      "memory": "I still have coffee with a former colleague, Marcus, every other Friday even though we left the department after disagreeing over how a major procurement was handled."
+    },
+    {
+      "id": "0008_relationships_and_work_06",
+      "persona_id": "0008",
+      "category": "relationships_and_work",
+      "memory": "My younger sister has been helping our mother manage appointments and bills, and I feel guilty that my demanding work schedule leaves her carrying more of that responsibility than I do."
+    },
+    {
+      "id": "0008_relationships_and_work_07",
+      "persona_id": "0008",
+      "category": "relationships_and_work",
+      "memory": "I turned down an early-retirement package worth about $42,000 because I want one more chance to lead the department through its five-year infrastructure plan."
+    }
+  ]
+}

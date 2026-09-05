@@ -1,0 +1,49 @@
+{
+  "persona_id": "0007",
+  "category": "personal_identity",
+  "count": 7,
+  "memories": [
+    {
+      "id": "0007_personal_identity_01",
+      "persona_id": "0007",
+      "category": "personal_identity",
+      "memory": "My small printmaking studio is registered at 18 Karanfil Passage, Unit 4, in the fictional Yenişehir district of Istanbul, and I use it as my mailing address for gallery paperwork."
+    },
+    {
+      "id": "0007_personal_identity_02",
+      "persona_id": "0007",
+      "category": "personal_identity",
+      "memory": "For exhibition inquiries I use the work-only contact line +90 555 010 0047, which is a dummy number that forwards to my assistant rather than my personal phone."
+    },
+    {
+      "id": "0007_personal_identity_03",
+      "persona_id": "0007",
+      "category": "personal_identity",
+      "memory": "My official documents use the name Layla Haddad, while older art catalogs list me as L. Haddad, and this mismatch has caused delays when venues check my identity."
+    },
+    {
+      "id": "0007_personal_identity_04",
+      "persona_id": "0007",
+      "category": "personal_identity",
+      "memory": "The arts cooperative I joined issued me the synthetic member reference ART-7Q4-19, which I need to quote whenever I submit a reimbursement claim."
+    },
+    {
+      "id": "0007_personal_identity_05",
+      "persona_id": "0007",
+      "category": "personal_identity",
+      "memory": "I currently hold a renewable residence permit connected to my independent arts work, and its renewal deadline is September 30, 2026."
+    },
+    {
+      "id": "0007_personal_identity_06",
+      "persona_id": "0007",
+      "category": "personal_identity",
+      "memory": "My cousin Emre is listed as my emergency contact on workshop and travel forms because he lives nearby and can reach me quickly if an event goes wrong."
+    },
+    {
+      "id": "0007_personal_identity_07",
+      "persona_id": "0007",
+      "category": "personal_identity",
+      "memory": "I keep a separate portfolio email, layla.haddad@atelier-example.invalid, for curators because I do not want my personal correspondence mixed with exhibition requests."
+    }
+  ]
+}

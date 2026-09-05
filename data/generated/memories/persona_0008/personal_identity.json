@@ -1,0 +1,49 @@
+{
+  "persona_id": "0008",
+  "category": "personal_identity",
+  "count": 7,
+  "memories": [
+    {
+      "id": "0008_personal_identity_01",
+      "persona_id": "0008",
+      "category": "personal_identity",
+      "memory": "I live at 18 Cedar Ridge Lane in the fictional town of Maple Junction, where I moved after retiring from full-time county service."
+    },
+    {
+      "id": "0008_personal_identity_02",
+      "persona_id": "0008",
+      "category": "personal_identity",
+      "memory": "My personal cell number is 202-555-0148, though I usually let calls from unknown numbers go to voicemail."
+    },
+    {
+      "id": "0008_personal_identity_03",
+      "persona_id": "0008",
+      "category": "personal_identity",
+      "memory": "I spent 27 years working in county emergency management and still keep my old department badge marked with the internal code PUB-0008-JL."
+    },
+    {
+      "id": "0008_personal_identity_04",
+      "persona_id": "0008",
+      "category": "personal_identity",
+      "memory": "My legal name is Jordan Michael Lee, but nearly everyone at work called me Jordan Lee."
+    },
+    {
+      "id": "0008_personal_identity_05",
+      "persona_id": "0008",
+      "category": "personal_identity",
+      "memory": "My wife, Elaine, is listed as my emergency contact, and we have been married since October 1981."
+    },
+    {
+      "id": "0008_personal_identity_06",
+      "persona_id": "0008",
+      "category": "personal_identity",
+      "memory": "For appointment reminders and neighborhood notices, I use jordan.lee@maplejunction.example.invalid rather than my work account."
+    },
+    {
+      "id": "0008_personal_identity_07",
+      "persona_id": "0008",
+      "category": "personal_identity",
+      "memory": "My current driver's license is due for renewal in November 2027, and I have been putting off the vision test because I dislike dealing with the motor vehicle office."
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "persona_id": "0007",
+  "category": "relationships_and_work",
+  "count": 7,
+  "memories": [
+    {
+      "id": "0007_relationships_and_work_01",
+      "persona_id": "0007",
+      "category": "relationships_and_work",
+      "memory": "Since separating from my partner in late 2023, I have been renting a small studio near the old tram depot and seeing my teenage son every other weekend."
+    },
+    {
+      "id": "0007_relationships_and_work_02",
+      "persona_id": "0007",
+      "category": "relationships_and_work",
+      "memory": "I turned down a secure museum position in Ankara in 2022 to work independently on installations, even though my first six months of freelance income were less than 40% of my previous salary."
+    },
+    {
+      "id": "0007_relationships_and_work_03",
+      "persona_id": "0007",
+      "category": "relationships_and_work",
+      "memory": "A curator at the Halcyon Arts Center blamed me for a delayed exhibition last spring, but the lighting contractor had missed three scheduled installations and I kept the email trail to defend myself."
+    },
+    {
+      "id": "0007_relationships_and_work_04",
+      "persona_id": "0007",
+      "category": "relationships_and_work",
+      "memory": "I borrowed about $3,200 from my older sister in February to buy equipment for a commissioned video piece, and I am repaying her in monthly installments of $400."
+    },
+    {
+      "id": "0007_relationships_and_work_05",
+      "persona_id": "0007",
+      "category": "relationships_and_work",
+      "memory": "My closest collaborator is a younger sculptor named Emre, and we agreed to split the proceeds from our joint projects 60/40 because I handle the proposals, budgeting, and client negotiations."
+    },
+    {
+      "id": "0007_relationships_and_work_06",
+      "persona_id": "0007",
+      "category": "relationships_and_work",
+      "memory": "After winning a regional arts grant in June 2025, I became difficult with my team and pushed everyone to work weekends, which damaged my relationship with one of the technicians even though the exhibition opened successfully."
+    },
+    {
+      "id": "0007_relationships_and_work_07",
+      "persona_id": "0007",
+      "category": "relationships_and_work",
+      "memory": "I am considering leaving my current collective after its director gave the most visible commission to a less experienced artist whose family sponsors the gallery."
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "persona_id": "0003",
+  "category": "health_medical",
+  "count": 7,
+  "memories": [
+    {
+      "id": "0003_health_medical_01",
+      "persona_id": "0003",
+      "category": "health_medical",
+      "memory": "I was diagnosed with high blood pressure in 2021, and I now take 10 mg of amlodipine every morning."
+    },
+    {
+      "id": "0003_health_medical_02",
+      "persona_id": "0003",
+      "category": "health_medical",
+      "memory": "After years of long-distance cycling, an MRI in February 2024 showed moderate osteoarthritis in my right knee."
+    },
+    {
+      "id": "0003_health_medical_03",
+      "persona_id": "0003",
+      "category": "health_medical",
+      "memory": "I completed six weeks of physiotherapy last autumn for a torn calf muscle that kept me from training for nearly two months."
+    },
+    {
+      "id": "0003_health_medical_04",
+      "persona_id": "0003",
+      "category": "health_medical",
+      "memory": "My doctor suspects mild sleep apnea because I snore heavily and often wake up tired, so I am scheduled for a sleep study this month."
+    },
+    {
+      "id": "0003_health_medical_05",
+      "persona_id": "0003",
+      "category": "health_medical",
+      "memory": "I take atorvastatin each night because my cholesterol was still above 240 mg/dL despite exercising regularly."
+    },
+    {
+      "id": "0003_health_medical_06",
+      "persona_id": "0003",
+      "category": "health_medical",
+      "memory": "I had cataract surgery on my left eye in May 2023, and I am still using prescription drops for occasional dryness."
+    },
+    {
+      "id": "0003_health_medical_07",
+      "persona_id": "0003",
+      "category": "health_medical",
+      "memory": "Before important exhibitions, I sometimes experience bouts of anxiety with a racing heartbeat, and my physician taught me breathing exercises instead of prescribing medication."
+    }
+  ]
+}

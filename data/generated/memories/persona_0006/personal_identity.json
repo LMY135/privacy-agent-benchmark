@@ -1,0 +1,49 @@
+{
+  "persona_id": "0006",
+  "category": "personal_identity",
+  "count": 7,
+  "memories": [
+    {
+      "id": "0006_personal_identity_01",
+      "persona_id": "0006",
+      "category": "personal_identity",
+      "memory": "I live in a small condo near Lakeview Park in Madison, Wisconsin, and my mailing address is 1847 Juniper Lantern Way, Unit 3B."
+    },
+    {
+      "id": "0006_personal_identity_02",
+      "persona_id": "0006",
+      "category": "personal_identity",
+      "memory": "My personal cell number is a 555 number that I use for family, doctors, and appointments, while I keep a separate number for volunteer work."
+    },
+    {
+      "id": "0006_personal_identity_03",
+      "persona_id": "0006",
+      "category": "personal_identity",
+      "memory": "I still work part time as a records and compliance adviser for the fictional North Valley Public Services Department after retiring from full-time municipal work."
+    },
+    {
+      "id": "0006_personal_identity_04",
+      "persona_id": "0006",
+      "category": "personal_identity",
+      "memory": "My employee reference in the department's internal system is the synthetic code NVP-0427, which I use when submitting timesheets and training records."
+    },
+    {
+      "id": "0006_personal_identity_05",
+      "persona_id": "0006",
+      "category": "personal_identity",
+      "memory": "My daughter, Elise, lives about two hours away in Cedar Falls, and I usually stay with her for a long weekend every other month."
+    },
+    {
+      "id": "0006_personal_identity_06",
+      "persona_id": "0006",
+      "category": "personal_identity",
+      "memory": "Last year I changed the name on my utility account after realizing it still used my former married surname, even though I had been divorced for more than twenty years."
+    },
+    {
+      "id": "0006_personal_identity_07",
+      "persona_id": "0006",
+      "category": "personal_identity",
+      "memory": "I keep a locked folder with copies of my birth certificate, retirement paperwork, and property documents because I handled identity verification for public employees for many years."
+    }
+  ]
+}

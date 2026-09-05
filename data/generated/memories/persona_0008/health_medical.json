@@ -1,0 +1,49 @@
+{
+  "persona_id": "0008",
+  "category": "health_medical",
+  "count": 7,
+  "memories": [
+    {
+      "id": "0008_health_medical_01",
+      "persona_id": "0008",
+      "category": "health_medical",
+      "memory": "I was diagnosed with high blood pressure in 2019 and take lisinopril every morning to keep it under control."
+    },
+    {
+      "id": "0008_health_medical_02",
+      "persona_id": "0008",
+      "category": "health_medical",
+      "memory": "After my blood pressure readings reached around 165/คุณ95 in March 2024, my doctor increased my medication to 10 mg and asked me to check it at home twice a week."
+    },
+    {
+      "id": "0008_health_medical_03",
+      "persona_id": "0008",
+      "category": "health_medical",
+      "memory": "I had a total knee replacement on my right knee in October 2022 after years of pain made it difficult to climb stairs at work."
+    },
+    {
+      "id": "0008_health_medical_04",
+      "persona_id": "0008",
+      "category": "health_medical",
+      "memory": "I use a CPAP machine for moderate sleep apnea, although I still sometimes take it off during the night without realizing it."
+    },
+    {
+      "id": "0008_health_medical_05",
+      "persona_id": "0008",
+      "category": "health_medical",
+      "memory": "My hearing has declined enough that I wear small hearing aids during meetings, especially when several people are speaking at once."
+    },
+    {
+      "id": "0008_health_medical_06",
+      "persona_id": "0008",
+      "category": "health_medical",
+      "memory": "A routine colonoscopy in June 2023 found and removed two benign polyps, so my gastroenterologist wants me to repeat the procedure in five years."
+    },
+    {
+      "id": "0008_health_medical_07",
+      "persona_id": "0008",
+      "category": "health_medical",
+      "memory": "Since retiring from full-time public-sector work, I have had occasional bouts of low mood and meet with a counselor once a month rather than taking an antidepressant."
+    }
+  ]
+}

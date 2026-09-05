@@ -1,0 +1,49 @@
+{
+  "persona_id": "0005",
+  "category": "financial",
+  "count": 7,
+  "memories": [
+    {
+      "id": "0005_financial_01",
+      "persona_id": "0005",
+      "category": "financial",
+      "memory": "I earn about €2,350 a month after tax from my public-sector job, and I put roughly €400 of it into savings before paying for anything else."
+    },
+    {
+      "id": "0005_financial_02",
+      "persona_id": "0005",
+      "category": "financial",
+      "memory": "In October 2024, I used €6,000 of my savings to invest in a small software company started by someone I know, even though there was no guarantee I would get the money back."
+    },
+    {
+      "id": "0005_financial_03",
+      "persona_id": "0005",
+      "category": "financial",
+      "memory": "I still owe €3,200 on a personal loan I took out to buy a used car, with monthly repayments of €185 scheduled to continue until mid-2028."
+    },
+    {
+      "id": "0005_financial_04",
+      "persona_id": "0005",
+      "category": "financial",
+      "memory": "My rent is €820 a month for a small flat near the government offices, and the landlord requires payment by the third working day of each month."
+    },
+    {
+      "id": "0005_financial_05",
+      "persona_id": "0005",
+      "category": "financial",
+      "memory": "I keep an emergency fund of around €4,700 in a separate savings account because I want to be able to leave my job or relocate quickly if a better career opportunity appears."
+    },
+    {
+      "id": "0005_financial_06",
+      "persona_id": "0005",
+      "category": "financial",
+      "memory": "Last year I lent a former colleague €900 to cover an unexpected tax bill, and they are repaying me in €150 installments whenever their finances allow."
+    },
+    {
+      "id": "0005_financial_07",
+      "persona_id": "0005",
+      "category": "financial",
+      "memory": "I lost about €1,100 trading a highly volatile cryptocurrency in early 2025, but I continued investing smaller amounts afterward because I was more focused on recovering the loss than avoiding further risk."
+    }
+  ]
+}

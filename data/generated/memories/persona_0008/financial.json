@@ -1,0 +1,49 @@
+{
+  "persona_id": "0008",
+  "category": "financial",
+  "count": 7,
+  "memories": [
+    {
+      "id": "0008_financial_01",
+      "persona_id": "0008",
+      "category": "financial",
+      "memory": "I still have about $18,000 left on the mortgage for my house, even though I had expected to pay it off before turning 70."
+    },
+    {
+      "id": "0008_financial_02",
+      "persona_id": "0008",
+      "category": "financial",
+      "memory": "After retiring from my public-sector management position, my monthly pension is roughly $4,200 before taxes, so I keep a close eye on medical and property-tax costs."
+    },
+    {
+      "id": "0008_financial_03",
+      "persona_id": "0008",
+      "category": "financial",
+      "memory": "I put $12,000 from my savings into replacing the roof on my home in October 2024 and have been rebuilding that emergency fund ever since."
+    },
+    {
+      "id": "0008_financial_04",
+      "persona_id": "0008",
+      "category": "financial",
+      "memory": "I co-signed a $9,500 auto loan for my adult son in 2022, and he has been making the payments reliably, but the debt still appears on my credit report."
+    },
+    {
+      "id": "0008_financial_05",
+      "persona_id": "0008",
+      "category": "financial",
+      "memory": "My former employer overpaid me by about $2,700 during a payroll transition in 2023, and I arranged a repayment plan that deducted $225 from each pension check."
+    },
+    {
+      "id": "0008_financial_06",
+      "persona_id": "0008",
+      "category": "financial",
+      "memory": "I keep most of my retirement savings in conservative index funds, but I moved approximately $35,000 into cash in early 2025 because I was worried about a market downturn."
+    },
+    {
+      "id": "0008_financial_07",
+      "persona_id": "0008",
+      "category": "financial",
+      "memory": "I lend my sister $300 a month to help with her utility bills, which has made it harder for me to set aside money for travel."
+    }
+  ]
+}

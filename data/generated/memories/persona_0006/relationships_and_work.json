@@ -1,0 +1,49 @@
+{
+  "persona_id": "0006",
+  "category": "relationships_and_work",
+  "count": 7,
+  "memories": [
+    {
+      "id": "0006_relationships_and_work_01",
+      "persona_id": "0006",
+      "category": "relationships_and_work",
+      "memory": "I still have breakfast with my younger sister every other Saturday, and we are trying to settle an old disagreement about who should keep our mother's cedar hope chest."
+    },
+    {
+      "id": "0006_relationships_and_work_02",
+      "persona_id": "0006",
+      "category": "relationships_and_work",
+      "memory": "After thirty-one years in municipal public works, I was promoted to deputy director in 2018 and found the leadership responsibilities more satisfying than the title itself."
+    },
+    {
+      "id": "0006_relationships_and_work_03",
+      "persona_id": "0006",
+      "category": "relationships_and_work",
+      "memory": "Last November, I had a tense meeting with my supervisor after she credited a major accessibility project to a newer manager, even though I had led the planning and secured the $420,000 budget."
+    },
+    {
+      "id": "0006_relationships_and_work_04",
+      "persona_id": "0006",
+      "category": "relationships_and_work",
+      "memory": "My daughter and her husband live about three hours away, so I help with their two children during school holidays and usually stay in their guest room for four or five nights."
+    },
+    {
+      "id": "0006_relationships_and_work_05",
+      "persona_id": "0006",
+      "category": "relationships_and_work",
+      "memory": "I have been seeing a widower named Martin for nearly two years, but we maintain separate homes because I am not ready to combine finances or give up my routines."
+    },
+    {
+      "id": "0006_relationships_and_work_06",
+      "persona_id": "0006",
+      "category": "relationships_and_work",
+      "memory": "A former coworker, Denise, calls me every Tuesday evening for advice about applying for management positions, and I review her interview answers even when I am tired."
+    },
+    {
+      "id": "0006_relationships_and_work_07",
+      "persona_id": "0006",
+      "category": "relationships_and_work",
+      "memory": "I took six weeks of family leave in 2021 to help my brother recover from knee replacement surgery, and returning to work was difficult because a temporary manager had reorganized my entire team."
+    }
+  ]
+}

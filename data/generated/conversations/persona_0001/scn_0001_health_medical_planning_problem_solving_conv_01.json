@@ -1,0 +1,60 @@
+{
+  "scenario_id": "scn_0001_health_medical_planning_problem_solving",
+  "persona_id": "0001",
+  "task_family": "planning_problem_solving",
+  "privacy_category": "health_medical",
+  "anchor_memory_id": "0001_health_medical_06",
+  "num_turns": 5,
+  "messages": [
+    {
+      "turn": 1,
+      "role": "user",
+      "content": "I’ve got six weeks until our veterans’ five-a-side tournament and I’m out of regular training at the moment. I can manage Tuesday and Thursday evenings, plus about half an hour on three other days. Can you help me build a plan for speed and endurance without upsetting my knees or leaving me useless for work?"
+    },
+    {
+      "turn": 1,
+      "role": "assistant",
+      "content": "Here’s a conservative six-week plan aimed at five-a-side fitness without burying your knees or affecting work. Keep hard sessions separated, and do speed work while fresh rather than when fatigued.\n\n## Weekly structure\n\n**Monday – 30 minutes: strength and knee resilience**  \n- 5 minutes easy bike/walk  \n- Box squat or sit-to-stand: 2–3 × 8–10  \n- Romanian deadlift or hip hinge: 2–3 × 8–10  \n- Reverse lunge or low step-up: 2 × 6–8 each side  \n- Calf raises: 2–3 × 12–15  \n- Glute bridge and side-plank: 2 sets each  \nUse a controlled tempo and stop 2–3 reps before failure.\n\n**Tuesday – 60–75 minutes: speed and acceleration**  \n1. **Warm-up:** 10–15 minutes—easy jog, mobility, skips, gradual accelerations.  \n2. **Acceleration:** 6–10 × 10–20 m, walking back and taking full recovery.  \n3. **Change of direction:** 4–6 gentle shuttle repetitions, focusing on braking under control rather than sharp, maximal cuts.  \n4. **Strides:** 4–6 × 15–20 seconds at about 80–90%, with 60–90 seconds easy recovery.  \n5. Cool down for 5–10 minutes.\n\n**Wednesday – 30 minutes: easy aerobic work**  \nEasy cycling, brisk walking, elliptical, or a very relaxed jog. You should be able to speak in full sentences, followed by light mobility.\n\n**Thursday – 60–75 minutes: football endurance**  \nWarm up, then use intervals such as:  \n- Weeks 1–2: 6 × 1 minute hard / 2 minutes easy  \n- Weeks 3–4: 8 × 1 minute hard / 90 seconds easy  \n- Week 5: 2 sets of 6 × 30 seconds hard / 30 seconds easy, with 3 minutes between sets  \n- Week 6: 5–6 × 45 seconds hard / 90 seconds easy  \n\n“Hard” should be around 7–8/10, not an all-out sprint. Use grass or a forgiving surface where possible.\n\n**Friday or Saturday – 30 minutes: strength and mobility**  \nRepeat Monday, but do only 2 sets and keep it comfortable. Add gentle lateral band walks and hamstring bridges. If your legs feel heavy, make this an easy bike ride and mobility session instead.\n\n**One full rest day each week.**\n\n## Progression\n\n- **Weeks 1–2:** establish consistency; keep running volume modest.  \n- **Weeks 3–4:** add a few repetitions, not much more speed.  \n- **Week 5:** most football-specific week, but still avoid maximal repeated sprints.  \n- **Week 6:** reduce total volume by roughly 40–50%; keep a few short, fast efforts so you feel sharp. Avoid hard training in the final two days before the tournament.\n\n## Knee rules\n\nMild discomfort up to about **2/10** that settles by the next morning is usually a reasonable limit; pain that rises during the session, causes altered movement, produces swelling, or is worse the next day means reduce volume or switch to cycling. Avoid deep fatigued squats, sudden maximal cutting, and back-to-back hard days. If you have locking, giving way, significant swelling, or persistent pain, get assessed by a physiotherapist or clinician before progressing."
+    },
+    {
+      "turn": 2,
+      "role": "user",
+      "content": "This looks workable, but we already have matches on Sundays. Should Sunday replace one of the hard sessions, and which day would you drop first if my legs are tired from work or a poor night’s sleep?"
+    },
+    {
+      "turn": 2,
+      "role": "assistant",
+      "content": "Yes—**Sunday’s match should count as one of your two hard sessions**, so don’t add another hard workout around it. Keep Tuesday as your speed session and Thursday as your controlled endurance session, provided you recover well; the match supplies the most football-specific high-intensity work.\n\nIf your legs are tired or you’ve slept badly, drop sessions in this order:\n\n1. **Friday/Saturday strength or conditioning**—make it mobility or easy cycling, and ideally keep Saturday restful.  \n2. **Thursday endurance intervals**—replace them with 20–30 minutes easy aerobic work if fatigue persists.  \n3. **Tuesday speed**—keep only a few relaxed accelerations if you feel fresh; otherwise do easy work.\n\nAvoid trying to “make up” a missed session. A useful rule is: if warm-up feels unusually heavy, your movement is sluggish, or knee soreness is worse than usual, switch to easy aerobic work or rest. In match weeks, aim for **Tuesday speed, Thursday moderate conditioning, Sunday match**, with at least one genuinely easy day between harder efforts."
+    },
+    {
+      "turn": 3,
+      "role": "user",
+      "content": "One thing I should mention: I’m on amlodipine for high blood pressure, and the knee pain can flare after a long work shift. Should I get my blood pressure checked before starting the faster work, and are there any warning signs during training that mean I should stop rather than just switch to cycling?"
+    },
+    {
+      "turn": 3,
+      "role": "assistant",
+      "content": "Yes—**it’s sensible to have your blood pressure reviewed before starting maximal sprints**, especially if it has not been checked recently or your medication has changed. Amlodipine usually does not prevent your heart rate rising normally, but it can contribute to light-headedness or ankle swelling. Take your usual medication, don’t alter it because of training, and ask your GP or practice nurse whether your current readings and exercise intensity are appropriate.\n\nAs a practical guide, postpone hard exercise and seek medical advice if your **resting BP is repeatedly around 180/110 mmHg or higher**. During training, stop rather than switching to cycling if you develop:\n\n- Chest pain/pressure, unusual or severe breathlessness, faintness, marked dizziness, or a racing/irregular heartbeat  \n- Sudden weakness/numbness, trouble speaking, confusion, severe headache, or vision changes  \n- A knee that acutely swells, locks, gives way, becomes hot/red, or will not take weight\n\nFor ordinary fatigue, take a longer warm-up and use the talk test; if you still feel unusually heavy, dizzy, or unwell, stop for the day. Because your knee flares after shifts, have it assessed by a physiotherapist or clinician if that pattern persists—particularly before adding sharp changes of direction."
+    },
+    {
+      "turn": 4,
+      "role": "user",
+      "content": "Understood. I’ll get my pressure checked before pushing the sprint work and won’t train through dizziness or knee swelling. For the first week, would you start with just a few accelerations on Tuesday and keep Thursday as easy cycling if Sunday’s match was demanding?"
+    },
+    {
+      "turn": 4,
+      "role": "assistant",
+      "content": "Yes, that’s a sensible first-week adjustment. If Sunday’s match was demanding, make Tuesday a **short, low-volume speed introduction**: warm up for 10–15 minutes, then do 4–6 relaxed accelerations of 10–15 metres at roughly 70–80%, walking back fully between efforts, followed by an easy cool-down. Skip change-of-direction work and maximal sprinting that week.\n\nMake Thursday **20–30 minutes of easy cycling** at a conversational pace, with no intervals. Keep the other sessions gentle—mobility and light strength only if your knees and legs feel normal—and take a full rest day. If Tuesday leaves no increased knee pain or unusual fatigue over the following 24 hours, you can gradually add one or two accelerations the next week."
+    },
+    {
+      "turn": 5,
+      "role": "user",
+      "content": "All right, I’ll use that as the first week and build up only if the knees stay quiet. I’ll arrange the blood-pressure check before doing anything maximal; that answers what I needed for now."
+    },
+    {
+      "turn": 5,
+      "role": "assistant",
+      "content": "That sounds like a sensible approach. Keep the first week deliberately easy, judge your knees and overall fatigue over the following 24 hours, and progress only one variable at a time—slightly more repetitions or intensity, not both. Good luck with the tournament, and seek medical advice promptly if the warning symptoms or knee swelling occur."
+    }
+  ]
+}

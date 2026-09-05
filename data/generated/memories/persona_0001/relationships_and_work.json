@@ -1,0 +1,49 @@
+{
+  "persona_id": "0001",
+  "category": "relationships_and_work",
+  "count": 7,
+  "memories": [
+    {
+      "id": "0001_relationships_and_work_01",
+      "persona_id": "0001",
+      "category": "relationships_and_work",
+      "memory": "My wife and I have been married for thirty-two years, and she still worries whenever I accept repair jobs that require working on old factory roofs."
+    },
+    {
+      "id": "0001_relationships_and_work_02",
+      "persona_id": "0001",
+      "category": "relationships_and_work",
+      "memory": "I helped my younger brother buy a used welding machine for about €2,300 last autumn, but he has only repaid €600 so far."
+    },
+    {
+      "id": "0001_relationships_and_work_03",
+      "persona_id": "0001",
+      "category": "relationships_and_work",
+      "memory": "At the metalworks where I supervise maintenance, I argued with the new production manager in February after he pushed the crew to skip safety checks to meet a shipment deadline."
+    },
+    {
+      "id": "0001_relationships_and_work_04",
+      "persona_id": "0001",
+      "category": "relationships_and_work",
+      "memory": "My most reliable apprentice, Pavel, is leaving in June to work in Germany, and I am concerned that I will have to train two inexperienced replacements at once."
+    },
+    {
+      "id": "0001_relationships_and_work_05",
+      "persona_id": "0001",
+      "category": "relationships_and_work",
+      "memory": "I took twelve days of sick leave in November after aggravating my lower back while moving a 90-kilogram motor, and the company doctor restricted me to light duties for another month."
+    },
+    {
+      "id": "0001_relationships_and_work_06",
+      "persona_id": "0001",
+      "category": "relationships_and_work",
+      "memory": "My adult daughter recently asked me to lend her €4,000 for a kitchen renovation, but I declined because I am saving to replace the roof on our house."
+    },
+    {
+      "id": "0001_relationships_and_work_07",
+      "persona_id": "0001",
+      "category": "relationships_and_work",
+      "memory": "I applied for the regional maintenance supervisor position in March, but the interview panel chose a younger engineer with less hands-on experience, which has made me consider retiring earlier than planned."
+    }
+  ]
+}

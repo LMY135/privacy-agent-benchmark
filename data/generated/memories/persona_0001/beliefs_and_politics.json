@@ -1,0 +1,49 @@
+{
+  "persona_id": "0001",
+  "category": "beliefs_and_politics",
+  "count": 7,
+  "memories": [
+    {
+      "id": "0001_beliefs_and_politics_01",
+      "persona_id": "0001",
+      "category": "beliefs_and_politics",
+      "memory": "I believe skilled tradespeople should have strong unions and predictable pensions, although I get frustrated when union officials spend more time on politics than on protecting workers."
+    },
+    {
+      "id": "0001_beliefs_and_politics_02",
+      "persona_id": "0001",
+      "category": "beliefs_and_politics",
+      "memory": "I usually support higher taxes on large companies if the money is clearly used for hospitals, vocational schools, and public transport rather than disappearing into administration."
+    },
+    {
+      "id": "0001_beliefs_and_politics_03",
+      "persona_id": "0001",
+      "category": "beliefs_and_politics",
+      "memory": "I was raised in an Orthodox Christian household, and although I do not attend services every week, I still light a candle for my parents and say a short prayer before important competitions."
+    },
+    {
+      "id": "0001_beliefs_and_politics_04",
+      "persona_id": "0001",
+      "category": "beliefs_and_politics",
+      "memory": "I voted for an independent candidate in the last local election because he promised to publish every council contract, and I gave his campaign the equivalent of about 120 euros from my workshop savings."
+    },
+    {
+      "id": "0001_beliefs_and_politics_05",
+      "persona_id": "0001",
+      "category": "beliefs_and_politics",
+      "memory": "I think immigration should be controlled through clear laws and proper work permits, but I dislike people blaming foreign workers for problems caused by poor management and low wages."
+    },
+    {
+      "id": "0001_beliefs_and_politics_06",
+      "persona_id": "0001",
+      "category": "beliefs_and_politics",
+      "memory": "After a coworker was dismissed for criticizing our factory's safety rules in 2019, I became more suspicious of governments and employers that demand loyalty while refusing to accept criticism."
+    },
+    {
+      "id": "0001_beliefs_and_politics_07",
+      "persona_id": "0001",
+      "category": "beliefs_and_politics",
+      "memory": "My strongest political conviction is that communities work best when people contribute to one another, so I would rather see funding for apprenticeships and neighborhood sports clubs than another expensive government publicity campaign."
+    }
+  ]
+}

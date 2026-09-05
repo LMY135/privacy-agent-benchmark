@@ -1,0 +1,49 @@
+{
+  "persona_id": "0002",
+  "category": "beliefs_and_politics",
+  "count": 7,
+  "memories": [
+    {
+      "id": "0002_beliefs_and_politics_01",
+      "persona_id": "0002",
+      "category": "beliefs_and_politics",
+      "memory": "I usually vote for candidates who protect voting access, public schools, and Social Security, even when I disagree with their economic policies."
+    },
+    {
+      "id": "0002_beliefs_and_politics_02",
+      "persona_id": "0002",
+      "category": "beliefs_and_politics",
+      "memory": "In 2022, I donated $600 from my savings to a regional voting-rights organization and volunteered twice at its community information table."
+    },
+    {
+      "id": "0002_beliefs_and_politics_03",
+      "persona_id": "0002",
+      "category": "beliefs_and_politics",
+      "memory": "I consider myself spiritually curious but not religious; after attending a Unitarian discussion group in Cedar Falls for about a year, I decided organized religion was not for me."
+    },
+    {
+      "id": "0002_beliefs_and_politics_04",
+      "persona_id": "0002",
+      "category": "beliefs_and_politics",
+      "memory": "I believe the criminal justice system should focus more on rehabilitation, which is why I have supported restorative-justice programs at the county level for several years."
+    },
+    {
+      "id": "0002_beliefs_and_politics_05",
+      "persona_id": "0002",
+      "category": "beliefs_and_politics",
+      "memory": "My strongest political conviction is that older adults should be able to make their own medical and end-of-life decisions without family members or politicians overriding them."
+    },
+    {
+      "id": "0002_beliefs_and_politics_06",
+      "persona_id": "0002",
+      "category": "beliefs_and_politics",
+      "memory": "I am more supportive of accepting refugees than most people in my extended family, and holiday dinners sometimes turn tense when immigration comes up."
+    },
+    {
+      "id": "0002_beliefs_and_politics_07",
+      "persona_id": "0002",
+      "category": "beliefs_and_politics",
+      "memory": "Although I do not identify with any political party, I joined a local coalition in March 2024 that opposed selling the town's public housing land to a private developer."
+    }
+  ]
+}

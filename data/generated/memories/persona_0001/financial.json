@@ -1,19 +1,49 @@
 {
   "persona_id": "0001",
   "category": "financial",
-  "count": 2,
+  "count": 7,
   "memories": [
     {
       "id": "0001_financial_01",
       "persona_id": "0001",
       "category": "financial",
-      "memory": "After a slow winter season, I used a small personal loan to buy a welding machine for my workshop, and I have been paying it back from each month's jobs."
+      "memory": "I bring home about $2,300 a month from repair and installation work, but the amount changes when there are fewer construction jobs."
     },
     {
       "id": "0001_financial_02",
       "persona_id": "0001",
       "category": "financial",
-      "memory": "I keep most of my savings in cash at home because I do not fully trust online banking, but I have not told my children exactly how much I have set aside."
+      "memory": "In February 2024, I borrowed roughly $4,800 from my older brother to replace the welding machine in my workshop, and I am repaying him in $200 monthly installments."
+    },
+    {
+      "id": "0001_financial_03",
+      "persona_id": "0001",
+      "category": "financial",
+      "memory": "I keep around $9,000 in savings as an emergency fund, although I was tempted to use most of it last year to buy a second-hand delivery van."
+    },
+    {
+      "id": "0001_financial_04",
+      "persona_id": "0001",
+      "category": "financial",
+      "memory": "When a former coworker opened a small metalworking business, I invested $3,500 in it without taking out a formal loan because I believed the workshop would become profitable."
+    },
+    {
+      "id": "0001_financial_05",
+      "persona_id": "0001",
+      "category": "financial",
+      "memory": "I am still paying off about $6,700 on a used van, with a monthly payment of approximately $290 due near the end of each month."
+    },
+    {
+      "id": "0001_financial_06",
+      "persona_id": "0001",
+      "category": "financial",
+      "memory": "A customer delayed paying my $1,150 invoice for nearly three months, which forced me to postpone buying new tools and take extra weekend jobs."
+    },
+    {
+      "id": "0001_financial_07",
+      "persona_id": "0001",
+      "category": "financial",
+      "memory": "I set aside a small cash envelope from every completed job to cover taxes and insurance, and by the end of last year it had reached about $2,400."
     }
   ]
 }

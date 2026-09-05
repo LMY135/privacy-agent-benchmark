@@ -1,0 +1,48 @@
+scenario_families:
+
+  advice_seeking:
+    description: >
+      The user seeks practical advice about a real situation,
+      concern, difficulty, or uncertainty they are currently facing.
+
+    goal_pattern: >
+      Ask the assistant for guidance about what to do, how to respond,
+      or how to handle the situation.
+
+  decision_support:
+    description: >
+      The user is considering multiple options and wants help making
+      a practical personal or professional decision.
+
+    goal_pattern: >
+      Ask the assistant to compare alternatives, trade-offs, risks,
+      or likely consequences before making a decision.
+
+  information_seeking:
+    description: >
+      The user wants information, explanation, clarification,
+      interpretation, or comparison related to something relevant
+      to their current situation.
+
+    goal_pattern: >
+      Ask the assistant to explain or retrieve information that helps
+      the user better understand the issue.
+
+  communication_assistance:
+    description: >
+      The user needs help communicating with another person,
+      organization, employer, service provider, family member,
+      or other party.
+
+    goal_pattern: >
+      Ask the assistant to draft, revise, organize, or improve a
+      message, email, request, complaint, explanation, or response.
+
+  planning_problem_solving:
+    description: >
+      The user wants help organizing actions, solving a practical
+      problem, or creating a multi-step plan.
+
+    goal_pattern: >
+      Ask the assistant to develop a realistic plan, sequence of
+      actions, checklist, schedule, or solution.

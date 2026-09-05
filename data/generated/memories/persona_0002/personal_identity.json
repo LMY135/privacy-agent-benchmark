@@ -1,0 +1,49 @@
+{
+  "persona_id": "0002",
+  "category": "personal_identity",
+  "count": 7,
+  "memories": [
+    {
+      "id": "0002_personal_identity_01",
+      "persona_id": "0002",
+      "category": "personal_identity",
+      "memory": "My current mailing address is 4040 Example Avenue, Apartment 3B, Northfield, and I prefer packages left with the building manager."
+    },
+    {
+      "id": "0002_personal_identity_02",
+      "persona_id": "0002",
+      "category": "personal_identity",
+      "memory": "I use the fictional contact number 555-0148 and the email address ebrooks@example.org for appointments and volunteer work."
+    },
+    {
+      "id": "0002_personal_identity_03",
+      "persona_id": "0002",
+      "category": "personal_identity",
+      "memory": "Although I am mostly retired, I still work two days a week as a community-mediation consultant for the Northfield Civic Partnership."
+    },
+    {
+      "id": "0002_personal_identity_04",
+      "persona_id": "0002",
+      "category": "personal_identity",
+      "memory": "My birthday is October 11, 1957, and I usually take the day off rather than have people make a fuss over it."
+    },
+    {
+      "id": "0002_personal_identity_05",
+      "persona_id": "0002",
+      "category": "personal_identity",
+      "memory": "My daughter Claire Brooks is listed as my emergency contact, and she lives about forty minutes away in the same county."
+    },
+    {
+      "id": "0002_personal_identity_06",
+      "persona_id": "0002",
+      "category": "personal_identity",
+      "memory": "My old personnel file at the mediation office is referenced as CASE-0002-EB, which is also the number I use when sorting my archived work papers."
+    },
+    {
+      "id": "0002_personal_identity_07",
+      "persona_id": "0002",
+      "category": "personal_identity",
+      "memory": "I separated from my husband several years ago but have not legally changed my surname because my professional records and publications are all under Brooks."
+    }
+  ]
+}

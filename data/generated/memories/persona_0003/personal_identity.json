@@ -1,0 +1,49 @@
+{
+  "persona_id": "0003",
+  "category": "personal_identity",
+  "count": 7,
+  "memories": [
+    {
+      "id": "0003_personal_identity_01",
+      "persona_id": "0003",
+      "category": "personal_identity",
+      "memory": "I live alone in a rented third-floor flat near the old riverbed in Valencia, where I keep most of my paintings and cycling equipment."
+    },
+    {
+      "id": "0003_personal_identity_02",
+      "persona_id": "0003",
+      "category": "personal_identity",
+      "memory": "For workshop deliveries, I use the mailing address 18 Avenida del Mirador, Flat 4C, Valencia 46099."
+    },
+    {
+      "id": "0003_personal_identity_03",
+      "persona_id": "0003",
+      "category": "personal_identity",
+      "memory": "I have worked as an independent printmaker and art restorer since 1987, and I still accept restoration commissions from two small galleries."
+    },
+    {
+      "id": "0003_personal_identity_04",
+      "persona_id": "0003",
+      "category": "personal_identity",
+      "memory": "My national health card is due for renewal in October 2027, and I keep the renewal letter in the locked drawer beside my studio desk."
+    },
+    {
+      "id": "0003_personal_identity_05",
+      "persona_id": "0003",
+      "category": "personal_identity",
+      "memory": "My adult daughter lives in Zaragoza, and we usually speak by telephone on Sunday evenings because she dislikes messaging apps."
+    },
+    {
+      "id": "0003_personal_identity_06",
+      "persona_id": "0003",
+      "category": "personal_identity",
+      "memory": "The local athletics club lists me under member code VRT-0003, and I train there four mornings a week with the same small group of veteran runners."
+    },
+    {
+      "id": "0003_personal_identity_07",
+      "persona_id": "0003",
+      "category": "personal_identity",
+      "memory": "I changed the surname on my professional art invoices after my divorce in 2004, although my bank and pension records still use my full legal name."
+    }
+  ]
+}

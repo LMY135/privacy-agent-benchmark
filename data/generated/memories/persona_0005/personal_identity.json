@@ -1,0 +1,49 @@
+{
+  "persona_id": "0005",
+  "category": "personal_identity",
+  "count": 7,
+  "memories": [
+    {
+      "id": "0005_personal_identity_01",
+      "persona_id": "0005",
+      "category": "personal_identity",
+      "memory": "I rent a small flat in the Docklands district of Northbridge and use a separate postal box for official correspondence because I move around frequently for work."
+    },
+    {
+      "id": "0005_personal_identity_02",
+      "persona_id": "0005",
+      "category": "personal_identity",
+      "memory": "My current job is as a casework assistant at the Northbridge Civic Services Office, where my internal staff reference is PS-0005-2741."
+    },
+    {
+      "id": "0005_personal_identity_03",
+      "persona_id": "0005",
+      "category": "personal_identity",
+      "memory": "I registered as Marco Rossi at a new GP practice in September 2024 after moving, and my patient file is linked to the fictional practice code NB-GP-1842."
+    },
+    {
+      "id": "0005_personal_identity_04",
+      "persona_id": "0005",
+      "category": "personal_identity",
+      "memory": "My passport renewal appointment is booked for 18 October, and I keep the application papers in a locked drawer rather than carrying them to work."
+    },
+    {
+      "id": "0005_personal_identity_05",
+      "persona_id": "0005",
+      "category": "personal_identity",
+      "memory": "I changed my mobile number after starting my public-sector job because my old number was still connected to several online accounts and former flatmates."
+    },
+    {
+      "id": "0005_personal_identity_06",
+      "persona_id": "0005",
+      "category": "personal_identity",
+      "memory": "My younger sister is listed as my emergency contact at work, although she lives in another city and would need about three hours to reach me."
+    },
+    {
+      "id": "0005_personal_identity_07",
+      "persona_id": "0005",
+      "category": "personal_identity",
+      "memory": "I once had to correct an employment record because the department had entered my surname as “Rossi-M” instead of “Rossi,” which delayed my first salary payment by nearly two weeks."
+    }
+  ]
+}

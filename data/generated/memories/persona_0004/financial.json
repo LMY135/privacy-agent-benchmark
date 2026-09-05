@@ -1,0 +1,49 @@
+{
+  "persona_id": "0004",
+  "category": "financial",
+  "count": 7,
+  "memories": [
+    {
+      "id": "0004_financial_01",
+      "persona_id": "0004",
+      "category": "financial",
+      "memory": "I earn about $78,000 a year as a public-sector program coordinator, and I automatically move $450 from each paycheck into a separate savings account."
+    },
+    {
+      "id": "0004_financial_02",
+      "persona_id": "0004",
+      "category": "financial",
+      "memory": "In February 2025, I put $6,500 of my savings into a small equipment-rental business run by a former coworker, even though the investment agreement says I could lose the entire amount."
+    },
+    {
+      "id": "0004_financial_03",
+      "persona_id": "0004",
+      "category": "financial",
+      "memory": "I still owe roughly $9,200 on my truck loan, with monthly payments of $386 scheduled to continue until November 2028."
+    },
+    {
+      "id": "0004_financial_04",
+      "persona_id": "0004",
+      "category": "financial",
+      "memory": "When my father needed urgent home repairs last summer, I paid the contractor $3,100 and arranged for him to repay me in installments rather than taking out a loan."
+    },
+    {
+      "id": "0004_financial_05",
+      "persona_id": "0004",
+      "category": "financial",
+      "memory": "I have about $31,000 in my workplace retirement plan, but I reduced my contributions for six months to cover a professional certification and moving costs."
+    },
+    {
+      "id": "0004_financial_06",
+      "persona_id": "0004",
+      "category": "financial",
+      "memory": "A payroll error in October 2024 deposited an extra $1,240 into my account, and I had to return it through three deductions from later paychecks."
+    },
+    {
+      "id": "0004_financial_07",
+      "persona_id": "0004",
+      "category": "financial",
+      "memory": "I keep around $2,000 in cash at home for emergencies because my work sometimes requires short-notice travel to remote communities where card payments are unreliable."
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "persona_id": "0005",
+  "category": "health_medical",
+  "count": 7,
+  "memories": [
+    {
+      "id": "0005_health_medical_01",
+      "persona_id": "0005",
+      "category": "health_medical",
+      "memory": "I was diagnosed with mild asthma at 14, and I still carry a salbutamol inhaler for exercise or cold weather."
+    },
+    {
+      "id": "0005_health_medical_02",
+      "persona_id": "0005",
+      "category": "health_medical",
+      "memory": "Since early 2025, I have been getting two or three migraines a month, and my doctor prescribed 50 mg sumatriptan tablets for the attacks."
+    },
+    {
+      "id": "0005_health_medical_03",
+      "persona_id": "0005",
+      "category": "health_medical",
+      "memory": "I injured my right knee playing five-a-side football in October 2024, but an MRI showed no tear and six physiotherapy sessions were enough for me to return to running."
+    },
+    {
+      "id": "0005_health_medical_04",
+      "persona_id": "0005",
+      "category": "health_medical",
+      "memory": "During my first year in public-sector work, I had several episodes of racing thoughts and shortness of breath, so I attended eight counseling sessions for panic symptoms."
+    },
+    {
+      "id": "0005_health_medical_05",
+      "persona_id": "0005",
+      "category": "health_medical",
+      "memory": "Penicillin gives me a widespread itchy rash, a reaction first recorded when I was a child, so it is listed prominently in my medical records."
+    },
+    {
+      "id": "0005_health_medical_06",
+      "persona_id": "0005",
+      "category": "health_medical",
+      "memory": "A routine blood test in March showed that my vitamin D was low, and I took a daily 1,000 IU supplement for three months before having it checked again."
+    },
+    {
+      "id": "0005_health_medical_07",
+      "persona_id": "0005",
+      "category": "health_medical",
+      "memory": "I had a small benign mole removed from my upper back in July 2023 because it had changed shape, and the biopsy confirmed that it was harmless."
+    }
+  ]
+}
